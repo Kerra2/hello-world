@@ -1,2 +1,2 @@
 # hello-world
-Learning new stuff for my software development course
+Hi there, I am learning new stuff for my software development course! Love learning new stuff like this. 
